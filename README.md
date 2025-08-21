@@ -43,6 +43,5 @@ WiFi connected
 IP address: 192.168.1.45
 
 ## Contribution
-Feel free to fork this repo and improve the project (e.g., add HTTP requests, APIs, or MQTT).
 Feel free to frk this repo and improve the project (e.g., add HTTP requests, APIs, or MQTT).
 
